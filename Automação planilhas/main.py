@@ -4,6 +4,7 @@ import tkinter as tk
 from tkinter import filedialog
 from openpyxl import load_workbook
 
+#Nessa página está todas as chamadas das funções, optei por separar os documentos para deixar o arquivo principal(main.py) mais limpo.
 
 root = tk.Tk()
 root.withdraw()
